@@ -1,8 +1,8 @@
 # Neko Halloween
-> This is a remake of the original Dark Matter theme by [ShadowDevilsAvenged](https://github.com/ShadowDevilsAvenged).
+> The original theme by [ShadowDevilsAvenged](https://github.com/ShadowDevilsAvenged).
 
-![Preview](https://imgur.com/7FqhDAd)
+![Preview](https://i.imgur.com/7FqhDAd.png)
 
 ## Credits
-* Hammock for making the original theme.
-* Devilbro for giving me permission to use his BlurpleRecolor theme. This saved a lot of time.
+* ShadowDevilsAvenged for making the original theme.
+* Witchdima who created this version of the theme.
