@@ -4,5 +4,5 @@
 ![Preview](https://i.imgur.com/7FqhDAd.png)
 
 ## Credits
-* ShadowDevilsAvenged for making the original theme.
+* ShadowDevilsAvenged who making the original theme.
 * Witchdima who created this version of the theme.
